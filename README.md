@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kyal
 
 Welcome to my GitHub profile!  
-I’m a **Technical Consultant** with a background in IT support and SQL development, currently working on projects that combine **Python & modules, Data analysis & data visualisation, ** to drive meaningful insights.  
+I’m a **Technical Consultant** with a background in IT support and SQL development, currently working on projects that combine **Python & modules, Data analysis & data visualisation** to drive meaningful insights.  
 
 ---
 
