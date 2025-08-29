@@ -11,6 +11,9 @@ I’m a **Technical Consultant** with a background in IT support and SQL develop
   <a href="https://github.com/Griff-Kyal/Spotify_Playlist-Extractor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griff-Kyal&repo=Spotify_Playlist-Extractor&theme=default" />
   </a>
+  <a href="https://github.com/Griff-Kyal/Data-Analyst_Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griff-Kyal&repo=Data-Analyst_Projects&theme=default" />
+  </a>
 </p>
 
 ---
