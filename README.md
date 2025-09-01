@@ -57,8 +57,7 @@ I’m a **Technical Consultant** with a background in IT support and SQL develop
 
 ## 📫 Let’s Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kyal-griffiths)   
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Griff-Kyal)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kyal-griffiths)    
 
 ---
 
