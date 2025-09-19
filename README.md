@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kyal
 
 Welcome to my GitHub profile!  
-I’m a **Technical Consultant** with a background in IT support and SQL development, currently working on projects that combine **Python & modules, Data analysis & data visualisation** to drive meaningful insights.  
+I’m a **Technical Consultant** with a background in IT support and SQL development, currently working on projects that combine **Python & modules, Data analysis & data visualisation, Data engineering & data pipelines with ETL processes** to drive meaningful insights.  
 
 ---
 
@@ -14,6 +14,9 @@ I’m a **Technical Consultant** with a background in IT support and SQL develop
   <a href="https://github.com/Griff-Kyal/Data-Analyst_Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griff-Kyal&repo=Data-Analyst_Projects&theme=default" />
   </a>
+    <a href="https://github.com/Griff-Kyal/Data-Engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griff-Kyal&repo=Data-Engineering&theme=default" />
+  </a>
 </p>
 
 ---
@@ -22,11 +25,13 @@ I’m a **Technical Consultant** with a background in IT support and SQL develop
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
 
@@ -36,6 +41,7 @@ I’m a **Technical Consultant** with a background in IT support and SQL develop
 |---------|-------------|-------------|------|
 | **[Spotify Playlist Extractor](https://github.com/Griff-Kyal/Spotify_Playlist-Extractor)** | Scraping Shared playlist URL to mitigate 'Made for You' limitations | Python (Pandas, Playwright, Spotipy, OAth) | [View Project](https://github.com/Griff-Kyal/Spotify_Playlist-Extractor) |
 | **[Data Analyst Projects](https://github.com/Griff-Kyal/Data-Analyst_Projects)** | Various Data Anayst projects, with data cleaning, manipluation and visualisation | SQL, Python (Jupyter, Pandas), PowerBI | [View Project](https://github.com/Griff-Kyal/Data-Analyst_Projects) |
+| **[Data Engineering Projects](https://github.com/Griff-Kyal/Data-Engineering)** | Various Data Engineering projects, using the core practices of modern data engineering | Python (Jupyter, Pandas, DuckDB), Postgre, Docker, Prefect | [View Project](https://github.com/Griff-Kyal/Data-Analyst_Projects) |
 
 ---
 
