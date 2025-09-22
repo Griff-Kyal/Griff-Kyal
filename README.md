@@ -67,4 +67,4 @@ I’m a **Technical Consultant** with a background in IT support and SQL develop
 
 ---
 
-⭐ *Check back often — I’m continuously adding new projects*  
+⭐ *Check back often. I’m continuously adding new projects*  
